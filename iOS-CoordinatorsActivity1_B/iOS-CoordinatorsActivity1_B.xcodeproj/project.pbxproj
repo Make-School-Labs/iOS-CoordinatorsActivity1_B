@@ -139,9 +139,9 @@
 		443442CC22710C4E008108E7 /* Coordinators */ = {
 			isa = PBXGroup;
 			children = (
-				443442C822710AB0008108E7 /* Storyboarded.swift */,
-				443442CA22710B97008108E7 /* MainCoordinator.swift */,
 				443442C622710A8E008108E7 /* Coordinator.swift */,
+				443442CA22710B97008108E7 /* MainCoordinator.swift */,
+				443442C822710AB0008108E7 /* Storyboarded.swift */,
 			);
 			path = Coordinators;
 			sourceTree = "<group>";
