@@ -23,7 +23,7 @@ class MainCoordinator: Coordinator {
         navigationController.pushViewController(vc, animated: true)
     }
     
-      //TODO: Create
+      //TODO: Create functions to instantiate other VCs
     func buySubscription() {
         let vc = BuyViewController.instantiate()
         vc.coordinator = self
